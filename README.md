@@ -1,6 +1,4 @@
 # Discrete BJT Logic Gates
-
-A hardware-level exploration of digital logic using **NPN Bipolar Junction Transistors (BJTs)**.
 ---
 
 ##  Components
@@ -9,5 +7,4 @@ A hardware-level exploration of digital logic using **NPN Bipolar Junction Trans
 * **Inputs:** Push Buttons
 
 ---
-*Created for the love of low-level hardware.*
 # transistor day special
